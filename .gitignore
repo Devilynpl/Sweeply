@@ -30,6 +30,11 @@ memory_audit.log
 .S/
 used_skills/
 .qodo/
+.agents/
+.gemini/
+.claude/
+.cursor/
+.windsurf/
 
 # =====================================================================
 # 4. PLIKI WYKONYWALNE I PACZKI / BUILDS & EXECUTABLES
@@ -79,3 +84,17 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
+
+# =====================================================================
+# 8. NOTATKI, PLANY I SCRATCHPAD / INTERNAL PLANNING & DEVELOPER NOTES
+# =====================================================================
+plan_dzialania.md
+TASKPLAN.MD
+taskplan.md
+TASKPLAN*.MD
+plan_*.md
+todo.md
+TODO.md
+LESSONS.md
+scratch/
+*.scratch
