@@ -1,0 +1,15 @@
+{
+    "IMAGES": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".webp", ".svg", ".heic", ".ico", ".raw", ".cr2", ".nef", ".orf", ".sr2"],
+    "MUSIC": [".mp3", ".flac", ".wav", ".aac", ".ogg", ".m4a", ".wma", ".mid", ".midi", ".cda", ".aif", ".aiff", ".mpa"],
+    "VIDEOS": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm", ".mpeg", ".mpg", ".vob", ".m4v", ".3gp", ".3g2"],
+    "DOCUMENTS": [".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt", ".wpd", ".tex", ".log", ".md", ".epub", ".mobi"],
+    "SPREADSHEETS": [".xls", ".xlsx", ".csv", ".ods", ".dif", ".xlsm", ".tsv"],
+    "PRESENTATIONS": [".ppt", ".pptx", ".pps", ".pptm", ".odp", ".key"],
+    "APPLICATIONS": [".exe", ".msi", ".dmg", ".pkg", ".app", ".bat", ".cmd", ".com", ".scr"],
+    "ARCHIVES": [".rar", ".zip", ".cab", ".7z", ".tar", ".gz", ".bz2", ".iso", ".xz", ".tgz"],
+    "SCRIPTS_AND_CODE": [".py", ".js", ".sh", ".ps1", ".rb", ".php", ".html", ".css", ".java", ".cpp", ".c", ".h", ".go", ".rs", ".sql", ".json", ".xml", ".yaml", ".yml", ".lua", ".pl", ".ts", ".jsx", ".tsx", ".asp", ".aspx"],
+    "3D_MODELS": [".blend", ".blend1", ".fbx", ".obj", ".stl", ".3ds", ".dae", ".max", ".ma", ".mb", ".gltf", ".glb", ".ply"],
+    "DESIGN": [".psd", ".ai", ".indd", ".cdr", ".sketch", ".fig", ".xd", ".afdesign", ".afphoto"],
+    "FONTS": [".ttf", ".otf", ".woff", ".woff2", ".eot"],
+    "SYSTEM_FILES": [".dll", ".sys", ".inf", ".reg", ".dmp", ".drv", ".cpl"]
+}

@@ -1,0 +1,81 @@
+# =====================================================================
+# 1. BEZPIECZEŃSTWO I PRYWATNOŚĆ / SECURITY & SECRETS
+# =====================================================================
+.env
+.env.*
+*.env
+*.secret
+*.pem
+*.key
+*.token
+# Lokalne konfiguracje użytkownika ze ścieżkami dyskowymi
+.sweeply_cfg.json
+*.cfg.json
+*.local
+
+# =====================================================================
+# 2. LOGI I DIAGNOSTYKA / LOGS & AUDIT TRAILS (Zawierają prywatne dane)
+# =====================================================================
+*.log
+@AutomationLog.txt
+desktop_cleaner.log
+sweeply.log
+memory_audit.log
+
+# =====================================================================
+# 3. ZEWNĘTRZNE NARZĘDZIA AI I SKILLE / EXTERNAL AGENT SKILLS & CACHE
+# =====================================================================
+# Katalog .skills zawiera 850+ podkatalogów (setki MB)
+.skills/
+.S/
+used_skills/
+.qodo/
+
+# =====================================================================
+# 4. PLIKI WYKONYWALNE I PACZKI / BUILDS & EXECUTABLES
+# =====================================================================
+build/
+dist/
+releases/
+Output/
+_iscc_tmp/
+*.exe
+*.msi
+*.dll
+*.pyd
+
+# =====================================================================
+# 5. PYTHON BYTECODE & ENVIRONMENTS
+# =====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# =====================================================================
+# 6. TESTY I PLIKI TYMCZASOWE / TESTING ARTIFACTS
+# =====================================================================
+.pytest_cache/
+temp_test_undo/
+.coverage
+.coverage.*
+htmlcov/
+
+# =====================================================================
+# 7. IDE, EDYTORY & SYSTEM OPERACYJNY / IDE & OS FILES
+# =====================================================================
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
