@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://microsoft.com)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Repository](https://img.shields.io/badge/GitHub-Devilynpl%2FSweeply-181717?logo=github)](https://github.com/Devilynpl/Sweeply)
-[![License](https://img.shields.io/badge/License-Proprietary-red)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [🇵🇱 Wersja Polska](#polska-wersja) | [🇬🇧 English Version](#english-version)
 
@@ -131,6 +131,10 @@ Uruchomienie zestawu testów jednostkowych za pomocą frameworka `pytest`:
 pytest -v tests/
 ```
 
+### Licencja
+
+Projekt jest udostępniany na zasadach wolnej licencji [MIT](LICENSE). Szczegółowe postanowienia znajdują się w pliku `LICENSE`.
+
 ---
 
 <a name="english-version"></a>
@@ -254,3 +258,7 @@ Run the test suite using `pytest`:
 ```powershell
 pytest -v tests/
 ```
+
+### License
+
+This project is licensed under the terms of the [MIT License](LICENSE). See the `LICENSE` file for details.
